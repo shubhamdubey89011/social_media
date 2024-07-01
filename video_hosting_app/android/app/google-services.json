@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "156913003494",
+    "project_id": "videohosting-da5eb",
+    "storage_bucket": "videohosting-da5eb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:156913003494:android:18e71376598f5d1f43c427",
+        "android_client_info": {
+          "package_name": "com.example.video_hosting_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCmWcoRH93-U6Q27I449B3dXp1Nvl5aeng"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:156913003494:android:5c5349fdb098c51f43c427",
+        "android_client_info": {
+          "package_name": "com.example.yourapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCmWcoRH93-U6Q27I449B3dXp1Nvl5aeng"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
